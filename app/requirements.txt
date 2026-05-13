@@ -1,0 +1,9 @@
+streamlit==1.32.0
+torch
+torchvision
+transformers
+ultralytics
+faiss-cpu
+pillow
+pandas
+numpy
