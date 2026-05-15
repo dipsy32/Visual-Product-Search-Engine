@@ -22,6 +22,8 @@ We tested three configurations to optimize retrieval metrics (Recall@K, NDCG@K, 
 * `Config-B`: Frozen CLIP + Frozen BLIP-2 (Late fusion of text and image modalities). **(Best Performing Model)**
 * `Config-C`: Fine-tuned CLIP + Frozen BLIP-2.
 
+
+⚠️ IMPORTANT NOTE FOR EVALUATION: Due to GitHub's file size limits, the FAISS/HNSW index files and the catalog images are hosted externally. Before running streamlit run app_config_b.py, please download the files from [https://drive.google.com/drive/folders/1zKF-HGtp1-jlVdNpXwhjaSerJLBM1Fer] and place them directly into the app/ folder.
 ---
 
 ##  Repository Structure
