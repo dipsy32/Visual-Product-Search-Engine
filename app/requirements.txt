@@ -3,7 +3,9 @@ torch
 torchvision
 transformers
 ultralytics
-faiss-cpu
+open_clip_torch
+hnswlib
+pyngrok
 pillow
 pandas
 numpy
